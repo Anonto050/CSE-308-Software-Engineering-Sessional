@@ -40,9 +40,10 @@
 
 ## Resources
 To gain a better understanding of the structures and implementations of design patterns, consider reviewing the following books:
-1. **[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)** by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
-2. **[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)** by Eric Freeman and Elisabeth Robson
-3. **[Patterns of Enterprise Application Architecture](https://martinfowler.com/books/eaa.html)** by Martin Fowler
+1. **[Dive into DESIGN PATTERNS](https://github.com/Anonto050/CSE-308-Software-Engineering-Sessional/blob/main/Resources/1%20Alexander%20Shvets%20-%20Dive%20Into%20Design%20Patterns%20(2019).pdf)** by Alexander Shvets
+2. **[Java Design Patterns](https://github.com/Anonto050/CSE-308-Software-Engineering-Sessional/blob/main/Resources/2%20Java%20Design%20Patterns-sarcar.pdf)** by Vaskaran Sarcar
+3. **[Head First Design Patterns](https://github.com/Anonto050/CSE-308-Software-Engineering-Sessional/blob/main/Resources/3%20Elisabeth%20Freeman%2C%20Eric%20Freeman%2C%20Bert%20Bates%2C%20Kathy%20Sierra%2C%20Elisabeth%20Robson%20-%20Head%20First%20Design%20Patterns-O'Reilly%20Media%20(2004).pdf)** by Eric Freeman and Elisabeth Robson
+
 
 These resources provide detailed explanations and examples, offering valuable insights before you implement these patterns yourself.
 
